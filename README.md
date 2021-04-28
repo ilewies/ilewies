@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://ilewies.github.io/LaveshJava/HTML/lavesh" >
+ LAVESH SATIM
 </h1>
 
 ## Hey! 👋
