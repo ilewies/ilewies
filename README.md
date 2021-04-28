@@ -1,5 +1,5 @@
 <h1 align="center">
-  Lavesh Satim
+  <marquee> Lavesh Satim </marquee>
 </h1>
 
 ## Hey! 👋
