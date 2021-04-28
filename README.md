@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @ilewies
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Lavesh Satim" />
+</h1>
 
-<!---
-ilewies/ilewies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hey! 👋
+I'm Lavesh, Software Developer who loves to fix a BUG :-)
+
+
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP
+- ⚙️ React, Svelte, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
+
+## Contacts
+- [Lavesh Satim](https://ilewies.github.io/LaveshJava/)
+
