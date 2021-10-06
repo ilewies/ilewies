@@ -8,11 +8,10 @@ I'm Lavesh, Software Developer who loves to fix a BUG :-)
 
 
 ## Skills
-- Java
-- Python(Django, REST)
+- Java, J2EE
 - SQL, PSQL, MongoDB
-- Spring Boot, Spring, Hibernate, Maven
-- HTML, CSS, JavaScript, Bootstrap
+- Spring Boot, Spring, Hibernate, Microservice
+- HTML, CSS, JavaScript, React Js
 - Linux, Bash scripting
 
 ## Contacts
